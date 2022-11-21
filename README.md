@@ -24,7 +24,7 @@
   </a>
 </p>
 <p align="center">
-  You can use this service for free. I'm looking for sponsors to help us keep up with this service❤️
+  You can use this service for free. 
 </p>
 
 
