@@ -37,7 +37,7 @@
 Add the following code to your readme. When pasting the code into your profile's readme, change the `?username=` value to your GitHub's username.
 
 ```
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ANTRUMEYE/-Github-Profile-Trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ANTRUMEYE)](https://github.com/ANTRUMEYE/-Github-Profile-Trophy)
 ```
 
 <p align="center">
